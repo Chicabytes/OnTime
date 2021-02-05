@@ -1,7 +1,7 @@
 ﻿
 namespace OnTime
 {
-    partial class Form1
+    partial class Timer
     {
         /// <summary>
         ///  Required designer variable.
@@ -29,7 +29,7 @@ namespace OnTime
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Timer));
             this.InfoLabel = new System.Windows.Forms.Label();
             this.TimeLabel = new System.Windows.Forms.Label();
             this.SuspendLayout();
@@ -37,6 +37,7 @@ namespace OnTime
             // InfoLabel
             // 
             this.InfoLabel.AutoSize = true;
+            this.InfoLabel.BackColor = System.Drawing.Color.Transparent;
             this.InfoLabel.Font = new System.Drawing.Font("Segoe UI", 65F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.InfoLabel.Location = new System.Drawing.Point(48, 20);
             this.InfoLabel.Name = "InfoLabel";
@@ -46,6 +47,7 @@ namespace OnTime
             // TimeLabel
             // 
             this.TimeLabel.AutoSize = true;
+            this.TimeLabel.BackColor = System.Drawing.Color.Transparent;
             this.TimeLabel.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.TimeLabel.Location = new System.Drawing.Point(12, 9);
             this.TimeLabel.Name = "TimeLabel";
@@ -53,7 +55,7 @@ namespace OnTime
             this.TimeLabel.TabIndex = 1;
             this.TimeLabel.Text = "Current Time:";
             // 
-            // Form1
+            // Timer
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -61,8 +63,9 @@ namespace OnTime
             this.Controls.Add(this.TimeLabel);
             this.Controls.Add(this.InfoLabel);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Name = "Form1";
+            this.Name = "Timer";
             this.Text = "On Time Clock";
+            this.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.Timer_KeyPress);
             this.ResumeLayout(false);
             this.PerformLayout();
 

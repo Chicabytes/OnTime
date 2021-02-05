@@ -1,0 +1,15 @@
+C:\Users\giuli\source\repos\OnTime\OnTime\OnTime\bin\Release\netcoreapp3.1\OnTime.exe
+C:\Users\giuli\source\repos\OnTime\OnTime\OnTime\bin\Release\netcoreapp3.1\OnTime.deps.json
+C:\Users\giuli\source\repos\OnTime\OnTime\OnTime\bin\Release\netcoreapp3.1\OnTime.runtimeconfig.json
+C:\Users\giuli\source\repos\OnTime\OnTime\OnTime\bin\Release\netcoreapp3.1\OnTime.runtimeconfig.dev.json
+C:\Users\giuli\source\repos\OnTime\OnTime\OnTime\bin\Release\netcoreapp3.1\OnTime.dll
+C:\Users\giuli\source\repos\OnTime\OnTime\OnTime\bin\Release\netcoreapp3.1\OnTime.pdb
+C:\Users\giuli\source\repos\OnTime\OnTime\OnTime\obj\Release\netcoreapp3.1\OnTime.csprojAssemblyReference.cache
+C:\Users\giuli\source\repos\OnTime\OnTime\OnTime\obj\Release\netcoreapp3.1\OnTime.Form1.resources
+C:\Users\giuli\source\repos\OnTime\OnTime\OnTime\obj\Release\netcoreapp3.1\OnTime.csproj.GenerateResource.cache
+C:\Users\giuli\source\repos\OnTime\OnTime\OnTime\obj\Release\netcoreapp3.1\OnTime.AssemblyInfoInputs.cache
+C:\Users\giuli\source\repos\OnTime\OnTime\OnTime\obj\Release\netcoreapp3.1\OnTime.AssemblyInfo.cs
+C:\Users\giuli\source\repos\OnTime\OnTime\OnTime\obj\Release\netcoreapp3.1\OnTime.csproj.CoreCompileInputs.cache
+C:\Users\giuli\source\repos\OnTime\OnTime\OnTime\obj\Release\netcoreapp3.1\OnTime.dll
+C:\Users\giuli\source\repos\OnTime\OnTime\OnTime\obj\Release\netcoreapp3.1\OnTime.pdb
+C:\Users\giuli\source\repos\OnTime\OnTime\OnTime\obj\Release\netcoreapp3.1\OnTime.genruntimeconfig.cache

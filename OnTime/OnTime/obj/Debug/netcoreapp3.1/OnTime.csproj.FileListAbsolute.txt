@@ -5,7 +5,6 @@ C:\Users\giuli\source\repos\OnTime\OnTime\OnTime\bin\Debug\netcoreapp3.1\OnTime.
 C:\Users\giuli\source\repos\OnTime\OnTime\OnTime\bin\Debug\netcoreapp3.1\OnTime.dll
 C:\Users\giuli\source\repos\OnTime\OnTime\OnTime\bin\Debug\netcoreapp3.1\OnTime.pdb
 C:\Users\giuli\source\repos\OnTime\OnTime\OnTime\obj\Debug\netcoreapp3.1\OnTime.csprojAssemblyReference.cache
-C:\Users\giuli\source\repos\OnTime\OnTime\OnTime\obj\Debug\netcoreapp3.1\OnTime.Form1.resources
 C:\Users\giuli\source\repos\OnTime\OnTime\OnTime\obj\Debug\netcoreapp3.1\OnTime.csproj.GenerateResource.cache
 C:\Users\giuli\source\repos\OnTime\OnTime\OnTime\obj\Debug\netcoreapp3.1\OnTime.AssemblyInfoInputs.cache
 C:\Users\giuli\source\repos\OnTime\OnTime\OnTime\obj\Debug\netcoreapp3.1\OnTime.AssemblyInfo.cs
@@ -13,3 +12,5 @@ C:\Users\giuli\source\repos\OnTime\OnTime\OnTime\obj\Debug\netcoreapp3.1\OnTime.
 C:\Users\giuli\source\repos\OnTime\OnTime\OnTime\obj\Debug\netcoreapp3.1\OnTime.dll
 C:\Users\giuli\source\repos\OnTime\OnTime\OnTime\obj\Debug\netcoreapp3.1\OnTime.pdb
 C:\Users\giuli\source\repos\OnTime\OnTime\OnTime\obj\Debug\netcoreapp3.1\OnTime.genruntimeconfig.cache
+C:\Users\giuli\source\repos\OnTime\OnTime\OnTime\obj\Debug\netcoreapp3.1\OnTime.Timer.resources
+C:\Users\giuli\source\repos\OnTime\OnTime\OnTime\obj\Debug\netcoreapp3.1\OnTime.Properties.Resources.resources

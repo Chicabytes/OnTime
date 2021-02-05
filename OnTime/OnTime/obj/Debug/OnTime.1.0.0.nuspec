@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>OnTime</id>
+    <version>1.0.0</version>
+    <authors>OnTime</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\giuli\source\repos\OnTime\OnTime\OnTime\bin\Debug\netcoreapp3.1\OnTime.runtimeconfig.json" target="lib\netcoreapp3.1\OnTime.runtimeconfig.json" />
+    <file src="C:\Users\giuli\source\repos\OnTime\OnTime\OnTime\bin\Debug\netcoreapp3.1\OnTime.dll" target="lib\netcoreapp3.1\OnTime.dll" />
+  </files>
+</package>
